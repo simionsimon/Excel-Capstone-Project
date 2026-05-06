@@ -1,3 +1,12 @@
-This project focuses on analyzing a retail sales dataset using Microsoft Excel and Power BI to generate meaningful business insights. The dataset includes details such as customer orders, product categories, sales amounts, commission amounts, and discount values.
+# Ecommerce Sales Dashboard
 
-The primary objective is to transform raw sales data into interactive dashboards and visual reports that support data-driven decision-making.
+## Project Overview
+This project contains an Ecommerce Sales Analysis Dashboard created using Excel/Power BI concepts to analyze sales performance, customer purchases, payment methods, store performance, and product categories.
+
+The dashboard helps businesses understand:
+- Total sales performance
+- Sales by category
+- Sales by payment type
+- Sales by store type
+- Year-wise sales trends
+- Quantity sold and average sales
